@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Media Pac-Man",
+    "price": 8,
+    "category": "Gamer",
+    "size": "Talla única",
+    "description": "Waka waka waka. El clásico arcade en tus pies, para maratones de gaming o para ser el más cool del salón.",
+    "featured": true,
+    "emoji": "👾",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Pizza",
+    "price": 7,
+    "category": "Comida",
+    "size": "Talla única",
+    "description": "Porque la pizza es amor. Diseño cheesy (literalmente) para los que viven de rodajas y sueñan con pepperoni.",
+    "featured": true,
+    "emoji": "🍕",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Chigüire",
+    "price": 9,
+    "category": "Animales",
+    "size": "Talla única",
+    "description": "El rey del llano en tus pies. Nuestra mascota y nuestro espíritu animal. 100% chigüiresco.",
+    "featured": true,
+    "emoji": "",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Space Invaders",
+    "price": 8,
+    "category": "Gamer",
+    "size": "Talla única",
+    "description": "Defiende tus pies de la invasión alienígena. Pixel art directo desde los 80s a tu gaveta.",
+    "featured": false,
+    "emoji": "👽",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Tacos",
+    "price": 7,
+    "category": "Comida",
+    "size": "Talla única",
+    "description": "Los martes son de tacos, pero estas medias son para los 7 días de la semana.",
+    "featured": false,
+    "emoji": "🌮",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media VHS",
+    "price": 8,
+    "category": "Retro",
+    "size": "Talla única",
+    "description": "Rebobina al pasado. Para los que todavía recuerdan el videoclub. Retro cool máximo.",
+    "featured": true,
+    "emoji": "📼",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Cat Neon",
+    "price": 9,
+    "category": "Animales",
+    "size": "Talla única",
+    "description": "Gatos y neón, la combinación perfecta de internet. Para los que duermen con su gato y viven en Discord.",
+    "featured": false,
+    "emoji": "🐱",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Matrix",
+    "price": 8,
+    "category": "Geek",
+    "size": "Talla única",
+    "description": "¿Píldora roja o azul? Con estas medias ya no importa. Wake up, Neo.",
+    "featured": false,
+    "emoji": "💊",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Ramen",
+    "price": 7,
+    "category": "Comida",
+    "size": "Talla única",
+    "description": "El sustento del estudiante universitario, ahora en formato textil.",
+    "featured": false,
+    "emoji": "🍜",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Floppy",
+    "price": 8,
+    "category": "Retro",
+    "size": "Talla única",
+    "description": "3.5 pulgadas de pura nostalgia. 1.44 MB de recuerdos en el corazón.",
+    "featured": false,
+    "emoji": "💾",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Alien",
+    "price": 9,
+    "category": "Geek",
+    "size": "Talla única",
+    "description": "La verdad está ahí fuera… y también en tus tobillos.",
+    "featured": false,
+    "emoji": "🛸",
+    "image": null,
+    "active": true
+  },
+  {
+    "name": "Media Dinosaurio",
+    "price": 8,
+    "category": "Animales",
+    "size": "Talla única",
+    "description": "65 millones de años después, el dinosaurio sigue siendo el rey. Ahora también de tu outfit.",
+    "featured": false,
+    "emoji": "🦕",
+    "image": null,
+    "active": true
+  }
+]

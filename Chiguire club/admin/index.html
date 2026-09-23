@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Admin | Chigüire Club</title>
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#app">Saltar al contenido</a>
+
+    <header class="site-header" data-header>
+      <nav class="nav-shell" aria-label="Navegación principal">
+        <a class="brand" href="../index.html#home" aria-label="Chigüire Club inicio">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img">
+              <path d="M15 38c0-13 10-23 24-23 8 0 14 5 14 13 0 14-11 23-25 23-8 0-13-5-13-13Z" />
+              <path d="M9 40c0-5 4-9 10-9h6v17h-6c-6 0-10-3-10-8Z" />
+              <path d="M43 21h9l5 7-8 3" />
+              <path d="M26 47v8M45 41v9" />
+              <circle cx="44" cy="28" r="2" />
+            </svg>
+          </span>
+          <span class="brand-text">CHIGÜIRE CLUB</span>
+        </a>
+
+        <div class="nav-links">
+          <a href="../index.html#home">Home</a>
+          <a href="../index.html#tienda">Tienda</a>
+          <a href="./" aria-current="page">Admin</a>
+          <a class="cart-link" href="../index.html#carrito" aria-label="Ver carrito">
+            Carrito
+            <span class="cart-badge" data-cart-count>0</span>
+          </a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="app" tabindex="-1"></main>
+
+    <div class="toast" data-toast role="status" aria-live="polite"></div>
+
+    <script>
+      window.CHIGUIRE_INITIAL_ROUTE = "admin";
+    </script>
+    <script src="../supabase-config.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="../app.js"></script>
+  </body>
+</html>
