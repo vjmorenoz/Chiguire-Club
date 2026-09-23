@@ -1,6 +1,6 @@
 # Mantiene activo el proyecto gratuito de Supabase.
 # El plan gratis pausa los proyectos tras 7 días sin actividad; esto hace
-# una consulta cada 3 días. Requiere los secrets SUPABASE_URL y
+# una consulta cada 3 días. Requiere  los secrets SUPABASE_URL y
 # SUPABASE_PUBLISHABLE_KEY (ver GUIA.md, paso 8).
 name: Mantener Supabase activo
 
