@@ -15,8 +15,8 @@ jobs:
     steps:
       - name: Consultar el catálogo
         env:
-          SUPABASE_URL: ${{ secrets.https://mgxsmjbhhjnocumqzarp.supabase.co }}
-          SUPABASE_KEY: ${{ secrets.sb_publishable_Wsb5O5qNO8WWFr5xQPQKrQ__l9q1Cb_ }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_PUBLISHABLE_KEY }}
         run: |
           curl --fail --silent --show-error \
             "$SUPABASE_URL/rest/v1/products?select=id&limit=1" \
